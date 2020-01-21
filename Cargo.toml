@@ -1,0 +1,11 @@
+[package]
+name = "cadmus"
+version = "0.1.0"
+authors = ["Carter Green <cartergr@usc.edu>", "Brad Sherman <bsherman1096@gmail.com>"]
+edition = "2018"
+readme = "./README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+nom = "5.1.0"
